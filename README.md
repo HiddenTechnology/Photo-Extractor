@@ -1,5 +1,5 @@
 # Photo-Extractor
-Baixe imagens do site apenas colocando o link.
+Baixe imagens de sites apenas colocando o link.
 
 # Instalação
 
