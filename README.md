@@ -3,7 +3,7 @@ Baixe imagens de sites apenas colocando o link.
 
 # Instalação
 
-# Termux 
+# 📱 Instalação Termux
 ```
 pkg install git
 git clone https://github.com/HiddenTechnology/Photo-Extractor
@@ -13,7 +13,7 @@ chmod +x Photo-Extractor.py
 ```
 python Photo-Extractor.py
 ```
-# Kali via termux
+# 🛠 Instalação Kali
 ```
 sudo apt install git -y
 git clone https://github.com/HiddenTechnology/Photo-Extractor
