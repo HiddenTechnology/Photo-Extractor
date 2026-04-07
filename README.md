@@ -16,6 +16,7 @@ python Photo-Extractor.py
 ```
 # 🛠 Instalação Kali
 ```
+sudo apt install python-is-python3
 sudo apt install python3-pip -y
 pip install requests beautifulsoup4 --break-system-packages
 sudo apt install git -y
